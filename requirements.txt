@@ -4,3 +4,4 @@ spacy==3.7.5
 numpy==1.26.4
 transformers==4.43.4
 torch
+sentencepiece==0.2.0
