@@ -1,8 +1,12 @@
 # Combined_Abstractive_and_Extractive
-## Demo Link - 
+## Demo Link -  https://combinedabstractiveandextractive-2317.streamlit.app/
 * The link might be slow as the project is uploaded on streamlit's free tier. Instead check out the demo video below.
 
   ## Demo Video :
+  
+
+https://github.com/user-attachments/assets/f3e4488f-25bc-47e9-8f79-1cee925f2302
+
 
 
   # Abstractive Text Summarization :
