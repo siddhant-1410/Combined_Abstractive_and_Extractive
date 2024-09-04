@@ -130,6 +130,10 @@ ENV/
 env.bak/
 venv.bak/
 
+#for zip files of model and tokenizer
+fine_tuned_t5_model.zip
+fine_tuned_t5_tokenizer.zip
+
 # Spyder project settings
 .spyderproject
 .spyproject
