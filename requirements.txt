@@ -3,5 +3,5 @@ scikit-learn==1.5.1
 spacy==3.7.5
 numpy==1.26.4
 transformers==4.43.4
-torch==2.4.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.4.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
 sentencepiece==0.2.0
