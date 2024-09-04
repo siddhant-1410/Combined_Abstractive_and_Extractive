@@ -7,7 +7,8 @@ model = T5ForConditionalGeneration.from_pretrained("fine_tuned_t5_model")
 tokenizer = T5Tokenizer.from_pretrained("fine_tuned_t5_tokenizer")
 
 
-device = torch.device("cuda" if torch.cuda.is_available else "cpu")
+# device = torch.device("cuda" if torch.cuda.is_available else "cpu")
+device = torch.device("cpu")
 model.to(device)
 
 
